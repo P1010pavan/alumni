@@ -2,60 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c774277b-f537-4f3e-b73e-d2fdee6a8d3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/AluminiTrackingSystem.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/migrations/0002_upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/migrations/0003_auto_20210711_0044.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/migrations/0004_rename_name_upload_your_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/migrations/0005_rename_your_name_upload_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/migrations/0006_job_upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/img1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/img2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/img3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/img4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/img5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/mem1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/mem2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/mem3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/static/pro1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/JobNotification.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/contactus.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/jobUpload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/password_reset_complete.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/password_reset_confirm.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/password_reset_done.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/reset_password.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/signin.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/signout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/signup.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/technews.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/templates/uploadpage.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ATS/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AluminiTrackingSystem/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AluminiTrackingSystem/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AluminiTrackingSystem/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AluminiTrackingSystem/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AluminiTrackingSystem/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/story/btns1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/media/story/error-bgs1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
